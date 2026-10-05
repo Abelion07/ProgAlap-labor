@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/csukasabel/STARK/C/3harmadik/main'
+relocations:     []
+...
