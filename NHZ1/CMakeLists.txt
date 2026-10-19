@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(NHZ1 main.c
         feladat1.c
-        feladat2.c)
+        feladat2.c
+        feladat3.c)
