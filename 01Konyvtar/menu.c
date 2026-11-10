@@ -84,7 +84,7 @@ void konyvtar_menu(Konyv** elso) {
                 break;
             case 2:
                 printf("Uj konyv hozzaadasa\n");
-                konyv_beolvasas(elso);
+                konyv_hozzaad(elso);
                 break;
             case 3:
                 printf("Konyv keresese\n");

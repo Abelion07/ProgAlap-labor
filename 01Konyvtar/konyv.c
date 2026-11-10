@@ -16,16 +16,16 @@ void konyv_hozzaad(Konyv **elso) {
     uj->id = kovetkezo_id(*elso);
 
     printf("Cím: ");
-    scanf("%100[^\n]", uj->cim);
+    scanf(" %100[^\n]", uj->cim);
 
     printf("Szerzo: ");
-    scanf("%100[^\n]", uj->szerzo);
+    scanf(" %100[^\n]", uj->szerzo);
 
     printf("Oldalszam: ");
     scanf("%d", &uj->oldalszam);
 
     printf("Kategoria: ");
-    scanf("%50[^\n]", uj->kategoria);
+    scanf(" %50[^\n]", uj->kategoria);
 
     printf("Kiadas eve: ");
     scanf("%d", &uj->kiadasev);
@@ -86,5 +86,5 @@ int kovetkezo_id(Konyv *elso) {
         aktualis = aktualis->kovetkezo;
     }
 
-    return maxID;
+    return maxID + 1;
 }

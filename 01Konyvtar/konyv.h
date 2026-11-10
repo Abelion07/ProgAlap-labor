@@ -20,6 +20,6 @@ typedef struct Konyv {
     struct Konyv *kovetkezo;
 } Konyv;
 
-void konyv_beolvasas(Konyv **elso);
+void konyv_hozzaad(Konyv **elso);
 
 #endif
