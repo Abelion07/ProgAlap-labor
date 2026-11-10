@@ -4,7 +4,6 @@
 typedef struct Olvasas {
     int ID;
     int konyv_id;
-    int osszesOldal;
     char kezdes[11];
     char utolso_rekord[11];
     char befejezes[11];
