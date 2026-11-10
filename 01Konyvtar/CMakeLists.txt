@@ -9,4 +9,6 @@ add_executable(01Konyvtar main.c
         menu.c
         menu.h
         fajl.c
-        fajl.h)
+        fajl.h
+        cmake-build-debug/olvasas.c
+        cmake-build-debug/olvasas.h)

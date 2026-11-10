@@ -20,16 +20,6 @@ typedef struct Konyv {
     struct Konyv *kovetkezo;
 } Konyv;
 
-typedef struct Olvasas {
-    int ID;
-    int olvasasID;
-    int osszesOldal;
-    char kezdes[11];
-    char utolso_rekord[11];
-    char befejezes[11];
-    int aktoldal;
-} Olvasas;
-
 void konyv_hozzaad(Konyv **elso);
 
 #endif
