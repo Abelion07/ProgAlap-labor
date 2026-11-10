@@ -4,7 +4,7 @@
 #include "debugmalloc.h"
 
 int kovetkezo_id(Konyv *elso);
-
+//hozzafuzi az ujonnan bekert konyvet a listahoz
 void konyv_hozzaad(Konyv **elso) {
     Konyv *uj = (Konyv *) malloc(sizeof(Konyv));
 
@@ -73,7 +73,7 @@ void konyv_hozzaad(Konyv **elso) {
     }
     printf("Konyv sikeresen hozzadva");
 }
-
+//megkeresi a legnagyobb id-t majd hozzad 1-et
 int kovetkezo_id(Konyv *elso) {
     int maxID = 0;
 

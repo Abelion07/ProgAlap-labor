@@ -6,6 +6,7 @@
 #include "debugmalloc.h"
 #include "konyv.h"
 
+//felszabaditja a memoriat
 void konyvek_felszabadit(Konyv *elso) {
     Konyv *aktualis = elso;
 
@@ -17,7 +18,7 @@ void konyvek_felszabadit(Konyv *elso) {
         aktualis = kovetkezo;
     }
 }
-
+//kiirja a konyvek listat
 void konyvek_kiir(Konyv *elso) {
     Konyv *aktualis = elso;
 
@@ -62,7 +63,7 @@ void konyvek_kiir(Konyv *elso) {
     printf(
         "+-----+----------------------+----------------------+-------+-----------------+------+--------------+-----------+\n");
 }
-
+//fajlbol olvassa es feltolti a konyvek adatait listaba
 Konyv *konyv_beolvasas(const char *fajlnev) {
     FILE *fajl = fopen(fajlnev, "r");
 

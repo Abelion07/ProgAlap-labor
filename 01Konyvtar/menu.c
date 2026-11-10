@@ -6,7 +6,7 @@
 void konyvtar_menu(Konyv **elso);
 
 void olvasasi_menu(void);
-
+//megvizsgalja, hogy a kapott bemenet szam-e
 bool vizsgal(int *szam) {
     if (scanf("%d", szam) != 1) {
         int c;
@@ -15,7 +15,7 @@ bool vizsgal(int *szam) {
     }
     return true;
 }
-
+//kiirja a menuelemeket, lehetoveteszi a navigalast.
 void fomenu(Konyv** elso) {
     int valasztas = 0;
 

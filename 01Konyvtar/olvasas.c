@@ -4,7 +4,7 @@
 
 #include "olvasas.h"
 #include "debugmalloc.h"
-
+//fajlbol olvassa es feltolti az olvasas adatait listaba
 Olvasas *olvasas_beolvasas(const char* fajlnev) {
     FILE *file = fopen(fajlnev, "r");
 
@@ -58,7 +58,7 @@ Olvasas *olvasas_beolvasas(const char* fajlnev) {
     fclose(file);
     return elso;
 }
-
+//felszabaditja az olvasasi adatoknak foglalt helyet.
 void olvasas_felszabadit(Olvasas *elso) {
     Olvasas *aktualis = elso;
 
