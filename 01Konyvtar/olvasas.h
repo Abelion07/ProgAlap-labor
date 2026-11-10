@@ -3,12 +3,17 @@
 
 typedef struct Olvasas {
     int ID;
-    int olvasasID;
+    int konyv_id;
     int osszesOldal;
     char kezdes[11];
     char utolso_rekord[11];
     char befejezes[11];
     int aktoldal;
+
+    struct Olvasas* kovetkezo;
 } Olvasas;
+
+Olvasas* olvasas_beolvasas(const char *fajlnev);
+void olvasas_felszabadit(Olvasas* elso);
 
 #endif //INC_01KONYVTAR_OLVASAS_H

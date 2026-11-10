@@ -9,6 +9,6 @@ int main() {
     fomenu(&elso);
 
     konyvek_felszabadit(elso);
-    printf("\nPov Memory: I had strings, but now I'm free.-Ultron\n");
+    printf("\nPov Memory: I had strings, but now I'm FREE.-Ultron\n");
     return 0;
 }
