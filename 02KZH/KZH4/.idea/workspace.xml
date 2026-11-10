@@ -27,92 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6da3b3eb-7199-4446-8752-948b9718e777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/f1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/.idea/2KZH.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2KZH/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/.idea/NHZ1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/feladat1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/feladat2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/feladat3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NHZ1/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.idea/elso.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/main.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/main.dSYM/Contents/Resources/DWARF/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elso/main.dSYM/Contents/Resources/Relocations/aarch64/main.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/.idea/gyakorlas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../gyakorlas/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../harmadik/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../harmadik/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../harmadik/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../harmadik/main.dSYM/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../harmadik/main.dSYM/Contents/Resources/DWARF/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../harmadik/main.dSYM/Contents/Resources/Relocations/aarch64/main.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/.idea/masodik.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../masodik/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/.idea/modularprogramming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/calculator.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/calculator.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../modularprogramming/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/.idea/negyedik.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../negyedik/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/.idea/pointergyak.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pointergyak/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,11 +85,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KZH4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KZH4" TARGET_NAME="KZH4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KZH4" RUN_TARGET_NAME="KZH4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
